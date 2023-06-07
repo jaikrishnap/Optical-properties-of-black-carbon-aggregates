@@ -9,9 +9,9 @@ Jaikrishna Patil, Baseerat Romshoo, Tobias Michels, Thomas Müller, Marius Kloft
 ## Installing required software
 Running the experiments and notebook in this repository requires a working Python interpreter with several packages installed. We recommend using [conda](https://conda.io/projects/conda/en/latest/index.html) to setup a virtual environment:
 1. Follow the instructions at the [conda website](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) to download and install Miniconda (or Anaconda if you prefer) for your OS.
-3. Clone this repository: (TODO: link might change)
+3. Clone this repository:
    ```commandline
-   tobias@tobias-Laptop:~$ git clone https://github.com/tmichels-tukl/Optical-properties-of-black-carbon-aggregates.git bcfa_experiments
+   tobias@tobias-Laptop:~$ git clone https://github.com/jaikrishnap/Optical-properties-of-black-carbon-aggregates.git bcfa_experiments
    Cloning into 'bcfa_experiments'...
    remote: Enumerating objects: 50, done.
    remote: Counting objects: 100% (11/11), done.
