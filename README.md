@@ -1,10 +1,8 @@
-# Optical properties of black carbon (BC) at various stages of aging: comprehensive dataset and machine learning-based prediction algorithm
+# Machine-learning-based approach to predict optical properties of black carbon (BC) at various aging stages 
 This repository contains code to reproduce figures and experiments described in
 
-Optical properties of black carbon (BC) at various stages of aging: comprehensive dataset and machine learning-based prediction algorithm
+**Machine-learning-based approach to predict optical properties of black carbon (BC) at various aging stages**
 Jaikrishna Patil, Baseerat Romshoo, Tobias Michels, Thomas Müller, Marius Kloft, and Mira Pöhlker
-(TODO: title might change, add link to paper)
-
 
 ## Installing required software
 Running the experiments and notebook in this repository requires a working Python interpreter with several packages installed. We recommend using [conda](https://conda.io/projects/conda/en/latest/index.html) to setup a virtual environment:
